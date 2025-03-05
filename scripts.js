@@ -99,10 +99,12 @@ for (var i = 0; i < 8; i++) {
     flag = !flag;
     var cell = document.createElement("td");
     var cellDiv = document.createElement("div");
+    
     if(flag)
       cellDiv.classList.add("black-box");
     else
-    cellDiv.classList.add("white-box");
+      cellDiv.classList.add("white-box");
+
     cell.classList.add("cell");
     let s = `ind-${i}-${j}`;
     cellDiv.classList.add(s);
