@@ -11,7 +11,8 @@
 ### Demo Screeshots
 
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/ab10fea2-eb21-42c4-9203-32c5de3cdf45" />
-<img width="383" alt="image" src="https://github.com/user-attachments/assets/6c9b1003-4b65-4e00-b517-1015efecc807" />
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/12a68df1-9adb-4c33-bc6e-4260cb2bde7d" />
+
 
 
 ### Prerequisites
